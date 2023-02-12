@@ -14,6 +14,6 @@ Project was built using following ecosystem:
 - [TivaWare SDK for C Series](https://www.ti.com/tool/SW-TM4C) (v2.2.0.295) -  Software development kit for Texas Instruments TM4C Arm Cortex-M4F device family
 - mikroProg Suite for Arm (v1.61) - Mirkoelektronika’s programmer and debugger
 
-Advanced board demo using LVGL graphics library can be found here [here](https://www.optolab.ftn.uns.ac.rs)
+Advanced board demo using [LVGL](https://lvgl.io/) graphics library can be found here [here](https://github.com/OptoLAB/Mikromedia-5-for-Tiva-C-LVGL-8-Demo)
 
 
