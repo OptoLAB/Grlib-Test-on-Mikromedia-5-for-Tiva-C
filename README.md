@@ -2,7 +2,7 @@
  
 ## About project
 
-This is a simple test for Texas Instruments TivaWare graphics library (grlib) ported on [Mikromedia 5 for Tiva C Series](https://www.mikroe.com/mikromedia-5-tiva) development board with [TM4C129XNCZAD](https://www.ti.com/product/TM4C129XNCZAD) mcu from [Mikroelektronika](https://www.mikroe.com/).
+This is a simple test for Texas Instruments TivaWare graphics library (grlib) ported on [Mikromedia 5 for Tiva C Series](https://www.mikroe.com/mikromedia-5-tiva) development board with [TM4C129XNCZAD](https://www.ti.com/product/TM4C129XNCZAD) mcu.
 
 <p align="center">
 <img src="https://github.com/OptoLAB/Grlib-Test-on-Mikromedia-5-for-Tiva-C/blob/main/img/20230212_211445.jpg" width="600"/>
